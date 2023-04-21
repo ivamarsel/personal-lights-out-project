@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-lights-out-project/static/css/main.cc099099.css",
+    "main.js": "/personal-lights-out-project/static/js/main.9c9c7b5d.js",
+    "index.html": "/personal-lights-out-project/index.html",
+    "main.cc099099.css.map": "/personal-lights-out-project/static/css/main.cc099099.css.map",
+    "main.9c9c7b5d.js.map": "/personal-lights-out-project/static/js/main.9c9c7b5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc099099.css",
+    "static/js/main.9c9c7b5d.js"
+  ]
+}
