@@ -98,7 +98,7 @@ class Board extends Component {
         // win when every cell is turned off
         // TODO: determine is the game has been won
 
-        //We use .every() instead a For loop for the board nested array.
+        //We use .every() instead a For loop for the board nested arrays.
         //for each row we do another row.every and check that for each cell the value is !cell a.k.a (false)
         //every cell in every row should be false
         let hasWon = board.every(row => row.every(cell => !cell))
